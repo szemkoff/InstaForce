@@ -1,0 +1,27 @@
+{
+  "id": "pitch-deck",
+  "title": "InstaForce Technologies | Investor Pitch Deck",
+  "description": "InstaForce Technologies",
+  "source": "@site/docs/pitch-deck.md",
+  "sourceDirName": ".",
+  "slug": "/pitch-deck",
+  "permalink": "/InstaForce/docs/pitch-deck",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/InstaForce/tree/main/docs/pitch-deck.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Investment Summary | InstaForce Technologies",
+    "permalink": "/InstaForce/docs/investment"
+  },
+  "next": {
+    "title": "Contributing Guidelines",
+    "permalink": "/InstaForce/docs/contributing"
+  }
+}

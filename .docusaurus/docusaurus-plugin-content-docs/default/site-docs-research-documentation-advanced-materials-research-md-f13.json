@@ -1,0 +1,24 @@
+{
+  "id": "research-documentation/advanced-materials-research",
+  "title": "Advanced Materials Research",
+  "description": "Development of quantum-responsive materials for spacecraft construction",
+  "source": "@site/docs/research-documentation/advanced-materials-research.md",
+  "sourceDirName": "research-documentation",
+  "slug": "/research-documentation/advanced-materials-research",
+  "permalink": "/InstaForce/docs/research-documentation/advanced-materials-research",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/InstaForce/tree/main/docs/research-documentation/advanced-materials-research.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Time Tacking: A Novel Theoretical Approach to Interstellar Travel",
+    "permalink": "/InstaForce/docs/research-documentation/time-tacking"
+  },
+  "next": {
+    "title": "Quantum Communications",
+    "permalink": "/InstaForce/docs/research-documentation/quantum-communications"
+  }
+}

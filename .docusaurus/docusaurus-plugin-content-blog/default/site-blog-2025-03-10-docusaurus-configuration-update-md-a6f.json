@@ -1,0 +1,62 @@
+{
+  "permalink": "/InstaForce/blog/docusaurus-configuration-update",
+  "editUrl": "https://github.com/szemkoff/InstaForce/tree/main/blog/2025-03-10-docusaurus-configuration-update.md",
+  "source": "@site/blog/2025-03-10-docusaurus-configuration-update.md",
+  "title": "IntstelForce Project Update",
+  "description": "Today we made several important advancements in our project:",
+  "date": "2025-03-10T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "documentation",
+      "permalink": "/InstaForce/blog/tags/documentation"
+    },
+    {
+      "inline": true,
+      "label": "update",
+      "permalink": "/InstaForce/blog/tags/update"
+    },
+    {
+      "inline": true,
+      "label": "research",
+      "permalink": "/InstaForce/blog/tags/research"
+    }
+  ],
+  "readingTime": 7.525,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Stan Zemskoff",
+      "title": "Principal Quantum Engineer",
+      "url": "https://github.com/stanzem",
+      "image_url": "https://github.com/stanzem.png",
+      "imageURL": "https://github.com/stanzem.png",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "docusaurus-configuration-update",
+    "title": "IntstelForce Project Update",
+    "authors": [
+      {
+        "name": "Stan Zemskoff",
+        "title": "Principal Quantum Engineer",
+        "url": "https://github.com/stanzem",
+        "image_url": "https://github.com/stanzem.png",
+        "imageURL": "https://github.com/stanzem.png"
+      }
+    ],
+    "tags": [
+      "documentation",
+      "update",
+      "research"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Research Infrastructure Documentation Updates",
+    "permalink": "/InstaForce/blog/research-infrastructure-update"
+  }
+}

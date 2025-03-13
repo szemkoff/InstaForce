@@ -1,0 +1,27 @@
+{
+  "id": "investment",
+  "title": "Investment Summary | InstaForce Technologies",
+  "description": "Executive Summary",
+  "source": "@site/docs/investment.md",
+  "sourceDirName": ".",
+  "slug": "/investment",
+  "permalink": "/InstaForce/docs/investment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/InstaForce/tree/main/docs/investment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technical Schematics & Diagrams",
+    "permalink": "/InstaForce/docs/diagrams"
+  },
+  "next": {
+    "title": "InstaForce Technologies | Investor Pitch Deck",
+    "permalink": "/InstaForce/docs/pitch-deck"
+  }
+}

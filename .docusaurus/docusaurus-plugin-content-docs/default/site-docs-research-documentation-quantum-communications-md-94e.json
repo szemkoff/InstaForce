@@ -1,0 +1,24 @@
+{
+  "id": "research-documentation/quantum-communications",
+  "title": "Quantum Communications",
+  "description": "Utilizing quantum entanglement for instantaneous communication across vast distances",
+  "source": "@site/docs/research-documentation/quantum-communications.md",
+  "sourceDirName": "research-documentation",
+  "slug": "/research-documentation/quantum-communications",
+  "permalink": "/InstaForce/docs/research-documentation/quantum-communications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/InstaForce/tree/main/docs/research-documentation/quantum-communications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Materials Research",
+    "permalink": "/InstaForce/docs/research-documentation/advanced-materials-research"
+  },
+  "next": {
+    "title": "Legal and Regulatory Framework",
+    "permalink": "/InstaForce/docs/research-documentation/legal-regulatory"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Research Infrastructure Documentation Updates",
+      "permalink": "/InstaForce/blog/research-infrastructure-update",
+      "unlisted": false,
+      "date": "2025-03-12T00:00:00.000Z"
+    },
+    {
+      "title": "IntstelForce Project Update",
+      "permalink": "/InstaForce/blog/docusaurus-configuration-update",
+      "unlisted": false,
+      "date": "2025-03-10T00:00:00.000Z"
+    }
+  ]
+}

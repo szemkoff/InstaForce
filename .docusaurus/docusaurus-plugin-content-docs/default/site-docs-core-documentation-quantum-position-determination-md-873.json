@@ -1,0 +1,29 @@
+{
+  "id": "core-documentation/quantum-position-determination",
+  "title": "Quantum Position Determination System",
+  "description": "Advanced positional tracking technology utilizing quantum mechanics for absolute spatial coordinates",
+  "source": "@site/docs/core-documentation/quantum-position-determination.md",
+  "sourceDirName": "core-documentation",
+  "slug": "/core-documentation/quantum-position-determination",
+  "permalink": "/InstaForce/docs/core-documentation/quantum-position-determination",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/InstaForce/tree/main/docs/core-documentation/quantum-position-determination.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Quantum Position Determination System",
+    "sidebar_position": 4,
+    "description": "Advanced positional tracking technology utilizing quantum mechanics for absolute spatial coordinates"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Propulsion and Navigation",
+    "permalink": "/InstaForce/docs/core-documentation/propulsion-navigation"
+  },
+  "next": {
+    "title": "Communication Systems",
+    "permalink": "/InstaForce/docs/core-documentation/communication-systems"
+  }
+}
