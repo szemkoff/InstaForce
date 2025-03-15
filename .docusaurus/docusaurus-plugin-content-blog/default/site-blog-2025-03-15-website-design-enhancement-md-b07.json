@@ -1,0 +1,72 @@
+{
+  "permalink": "/InstaForce/blog/website-design-enhancement",
+  "editUrl": "https://github.com/szemkoff/InstaForce/tree/main/blog/2025-03-15-website-design-enhancement.md",
+  "source": "@site/blog/2025-03-15-website-design-enhancement.md",
+  "title": "Website Design Enhancement and Documentation Updates",
+  "description": "We're excited to announce comprehensive design improvements to the InstaForce website, enhancing both aesthetics and usability. These changes are part of our ongoing commitment to providing a seamless, intuitive experience for all users exploring our quantum propulsion technology documentation.",
+  "date": "2025-03-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "website",
+      "permalink": "/InstaForce/blog/tags/website"
+    },
+    {
+      "inline": true,
+      "label": "design",
+      "permalink": "/InstaForce/blog/tags/design"
+    },
+    {
+      "inline": true,
+      "label": "documentation",
+      "permalink": "/InstaForce/blog/tags/documentation"
+    },
+    {
+      "inline": true,
+      "label": "updates",
+      "permalink": "/InstaForce/blog/tags/updates"
+    }
+  ],
+  "readingTime": 2.44,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Stan Zemskoff",
+      "title": "Principal Quantum Engineer",
+      "url": "https://github.com/stanzem",
+      "image_url": "https://github.com/stanzem.png",
+      "imageURL": "https://github.com/stanzem.png",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "website-design-enhancement",
+    "title": "Website Design Enhancement and Documentation Updates",
+    "authors": [
+      {
+        "name": "Stan Zemskoff",
+        "title": "Principal Quantum Engineer",
+        "url": "https://github.com/stanzem",
+        "image_url": "https://github.com/stanzem.png",
+        "imageURL": "https://github.com/stanzem.png"
+      }
+    ],
+    "tags": [
+      "website",
+      "design",
+      "documentation",
+      "updates"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New Tokenization Strategy and Game-Based Research Platform Documentation",
+    "permalink": "/InstaForce/blog/tokenization-and-game-research"
+  },
+  "nextItem": {
+    "title": "Research Infrastructure Documentation Updates",
+    "permalink": "/InstaForce/blog/research-infrastructure-update"
+  }
+}

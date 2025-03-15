@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinstaforce_docs=self.webpackChunkinstaforce_docs||[]).push([[8426],{634:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/InstaForce/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

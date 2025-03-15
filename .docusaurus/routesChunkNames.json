@@ -1,0 +1,374 @@
+{
+  "/InstaForce/blog-250": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ae590d97"
+      },
+      {
+        "content": "d9167417"
+      },
+      {
+        "content": "be987224"
+      },
+      {
+        "content": "53576f7d"
+      }
+    ],
+    "__props": "bb9dd51d"
+  },
+  "/InstaForce/blog/archive-e6e": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "64ad41bb"
+  },
+  "/InstaForce/blog/authors-07c": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "6f7b9eef"
+  },
+  "/InstaForce/blog/docusaurus-configuration-update-c8f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "a6fdd5a8"
+  },
+  "/InstaForce/blog/research-infrastructure-update-a1f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "c1e09688"
+  },
+  "/InstaForce/blog/tags-b3e": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "da718af5"
+  },
+  "/InstaForce/blog/tags/blockchain-72f": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ae590d97"
+      }
+    ],
+    "__props": "d1688af9"
+  },
+  "/InstaForce/blog/tags/community-107": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ae590d97"
+      }
+    ],
+    "__props": "9e335470"
+  },
+  "/InstaForce/blog/tags/design-c07": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d9167417"
+      }
+    ],
+    "__props": "db00ea4f"
+  },
+  "/InstaForce/blog/tags/diagrams-72e": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "be987224"
+      }
+    ],
+    "__props": "bb3c199f"
+  },
+  "/InstaForce/blog/tags/documentation-53b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d9167417"
+      },
+      {
+        "content": "be987224"
+      },
+      {
+        "content": "53576f7d"
+      }
+    ],
+    "__props": "6cfbfc87"
+  },
+  "/InstaForce/blog/tags/game-based-research-0f5": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ae590d97"
+      }
+    ],
+    "__props": "ab9fc275"
+  },
+  "/InstaForce/blog/tags/infrastructure-dd4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "be987224"
+      }
+    ],
+    "__props": "0b247087"
+  },
+  "/InstaForce/blog/tags/research-336": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "be987224"
+      },
+      {
+        "content": "53576f7d"
+      }
+    ],
+    "__props": "3a17778b"
+  },
+  "/InstaForce/blog/tags/tokenization-c45": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ae590d97"
+      }
+    ],
+    "__props": "e6886258"
+  },
+  "/InstaForce/blog/tags/update-2b4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "53576f7d"
+      }
+    ],
+    "__props": "ea246260"
+  },
+  "/InstaForce/blog/tags/updates-83c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d9167417"
+      }
+    ],
+    "__props": "d984424f"
+  },
+  "/InstaForce/blog/tags/website-203": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d9167417"
+      }
+    ],
+    "__props": "496e18fb"
+  },
+  "/InstaForce/blog/tokenization-and-game-research-b19": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "5187bf5a"
+  },
+  "/InstaForce/blog/website-design-enhancement-28a": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "b07c2439"
+  },
+  "/InstaForce/project-status-f7c": {
+    "__comp": "0d271eea",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/InstaForce/docs-406": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/InstaForce/docs-9c7": {
+    "__comp": "a7bd4aaa",
+    "__props": "537536b4"
+  },
+  "/InstaForce/docs-2e3": {
+    "__comp": "a94703ab"
+  },
+  "/InstaForce/docs/contributing-433": {
+    "__comp": "17896441",
+    "content": "4d54d076"
+  },
+  "/InstaForce/docs/core-documentation/communication-systems-c12": {
+    "__comp": "17896441",
+    "content": "f27e2fec"
+  },
+  "/InstaForce/docs/core-documentation/core-technology-460": {
+    "__comp": "17896441",
+    "content": "ffcd5b0a"
+  },
+  "/InstaForce/docs/core-documentation/energy-systems-f4e": {
+    "__comp": "17896441",
+    "content": "f727a8e0"
+  },
+  "/InstaForce/docs/core-documentation/propulsion-navigation-7af": {
+    "__comp": "17896441",
+    "content": "7dbddcb8"
+  },
+  "/InstaForce/docs/core-documentation/quantum-position-determination-0ab": {
+    "__comp": "17896441",
+    "content": "8739dfe3"
+  },
+  "/InstaForce/docs/diagrams-2c7": {
+    "__comp": "17896441",
+    "content": "d78ff9f4"
+  },
+  "/InstaForce/docs/infrastructure-documentation/bio-resonance-habitat-3f4": {
+    "__comp": "17896441",
+    "content": "9d1d7e14"
+  },
+  "/InstaForce/docs/infrastructure-documentation/human-centric-design-0fe": {
+    "__comp": "17896441",
+    "content": "97a0306a"
+  },
+  "/InstaForce/docs/infrastructure-documentation/support-systems-161": {
+    "__comp": "17896441",
+    "content": "6fa5d5eb"
+  },
+  "/InstaForce/docs/intro-afe": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/InstaForce/docs/investment-b64": {
+    "__comp": "17896441",
+    "content": "5f16fdb0"
+  },
+  "/InstaForce/docs/pitch-deck-0db": {
+    "__comp": "17896441",
+    "content": "1fabbd43"
+  },
+  "/InstaForce/docs/research-documentation/advanced-materials-research-8db": {
+    "__comp": "17896441",
+    "content": "f136c06d"
+  },
+  "/InstaForce/docs/research-documentation/game-based-research-platform-ed1": {
+    "__comp": "17896441",
+    "content": "caa8d8e9"
+  },
+  "/InstaForce/docs/research-documentation/legal-regulatory-577": {
+    "__comp": "17896441",
+    "content": "06f7b6fc"
+  },
+  "/InstaForce/docs/research-documentation/quantum-battery-prototype-705": {
+    "__comp": "17896441",
+    "content": "ee8afe25"
+  },
+  "/InstaForce/docs/research-documentation/quantum-communications-b56": {
+    "__comp": "17896441",
+    "content": "94e5342c"
+  },
+  "/InstaForce/docs/research-documentation/quantum-research-paper-0c1": {
+    "__comp": "17896441",
+    "content": "6d7a076b"
+  },
+  "/InstaForce/docs/research-documentation/research-development-082": {
+    "__comp": "17896441",
+    "content": "151ba80d"
+  },
+  "/InstaForce/docs/research-documentation/time-tacking-3b4": {
+    "__comp": "17896441",
+    "content": "9b8624ea"
+  },
+  "/InstaForce/docs/tokenization-strategy-83e": {
+    "__comp": "17896441",
+    "content": "fb3205f4"
+  },
+  "/InstaForce/-98d": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

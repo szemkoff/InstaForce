@@ -1,0 +1,138 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/InstaForce/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/InstaForce/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "contributing",
+              "path": "/InstaForce/docs/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/communication-systems",
+              "path": "/InstaForce/docs/core-documentation/communication-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/core-technology",
+              "path": "/InstaForce/docs/core-documentation/core-technology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/energy-systems",
+              "path": "/InstaForce/docs/core-documentation/energy-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/propulsion-navigation",
+              "path": "/InstaForce/docs/core-documentation/propulsion-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/quantum-position-determination",
+              "path": "/InstaForce/docs/core-documentation/quantum-position-determination",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diagrams",
+              "path": "/InstaForce/docs/diagrams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infrastructure-documentation/bio-resonance-habitat",
+              "path": "/InstaForce/docs/infrastructure-documentation/bio-resonance-habitat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infrastructure-documentation/human-centric-design",
+              "path": "/InstaForce/docs/infrastructure-documentation/human-centric-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infrastructure-documentation/support-systems",
+              "path": "/InstaForce/docs/infrastructure-documentation/support-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/InstaForce/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "investment",
+              "path": "/InstaForce/docs/investment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pitch-deck",
+              "path": "/InstaForce/docs/pitch-deck",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/advanced-materials-research",
+              "path": "/InstaForce/docs/research-documentation/advanced-materials-research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/game-based-research-platform",
+              "path": "/InstaForce/docs/research-documentation/game-based-research-platform",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/legal-regulatory",
+              "path": "/InstaForce/docs/research-documentation/legal-regulatory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/quantum-battery-prototype",
+              "path": "/InstaForce/docs/research-documentation/quantum-battery-prototype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/quantum-communications",
+              "path": "/InstaForce/docs/research-documentation/quantum-communications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/quantum-research-paper",
+              "path": "/InstaForce/docs/research-documentation/quantum-research-paper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/research-development",
+              "path": "/InstaForce/docs/research-documentation/research-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/time-tacking",
+              "path": "/InstaForce/docs/research-documentation/time-tacking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokenization-strategy",
+              "path": "/InstaForce/docs/tokenization-strategy",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/InstaForce/docs/intro",
+                "label": "Project Overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

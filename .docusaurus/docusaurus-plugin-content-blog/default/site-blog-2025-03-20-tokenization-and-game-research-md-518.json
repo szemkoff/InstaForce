@@ -1,0 +1,68 @@
+{
+  "permalink": "/InstaForce/blog/tokenization-and-game-research",
+  "editUrl": "https://github.com/szemkoff/InstaForce/tree/main/blog/2025-03-20-tokenization-and-game-research.md",
+  "source": "@site/blog/2025-03-20-tokenization-and-game-research.md",
+  "title": "New Tokenization Strategy and Game-Based Research Platform Documentation",
+  "description": "We're excited to announce the addition of two major new documentation sections to the InstaForce knowledge base: our comprehensive Tokenization Strategy and innovative Game-Based Research Platform.",
+  "date": "2025-03-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "tokenization",
+      "permalink": "/InstaForce/blog/tags/tokenization"
+    },
+    {
+      "inline": true,
+      "label": "game-based research",
+      "permalink": "/InstaForce/blog/tags/game-based-research"
+    },
+    {
+      "inline": true,
+      "label": "blockchain",
+      "permalink": "/InstaForce/blog/tags/blockchain"
+    },
+    {
+      "inline": true,
+      "label": "community",
+      "permalink": "/InstaForce/blog/tags/community"
+    }
+  ],
+  "readingTime": 2.275,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Stan Zemskoff",
+      "title": "Principal Quantum Engineer",
+      "url": "https://github.com/stanzem",
+      "image_url": "https://github.com/stanzem.png",
+      "imageURL": "https://github.com/stanzem.png",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "tokenization-and-game-research",
+    "title": "New Tokenization Strategy and Game-Based Research Platform Documentation",
+    "authors": [
+      {
+        "name": "Stan Zemskoff",
+        "title": "Principal Quantum Engineer",
+        "url": "https://github.com/stanzem",
+        "image_url": "https://github.com/stanzem.png",
+        "imageURL": "https://github.com/stanzem.png"
+      }
+    ],
+    "tags": [
+      "tokenization",
+      "game-based research",
+      "blockchain",
+      "community"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Website Design Enhancement and Documentation Updates",
+    "permalink": "/InstaForce/blog/website-design-enhancement"
+  }
+}

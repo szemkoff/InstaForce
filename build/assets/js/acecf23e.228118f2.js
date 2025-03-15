@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinstaforce_docs=self.webpackChunkinstaforce_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/InstaForce/blog","blogTitle":"Blog","authorsListPath":"/InstaForce/blog/authors"}')}}]);

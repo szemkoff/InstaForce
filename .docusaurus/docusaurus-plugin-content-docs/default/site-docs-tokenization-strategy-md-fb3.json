@@ -1,0 +1,27 @@
+{
+  "id": "tokenization-strategy",
+  "title": "InstaForce Tokenization Strategy",
+  "description": "Executive Summary",
+  "source": "@site/docs/tokenization-strategy.md",
+  "sourceDirName": ".",
+  "slug": "/tokenization-strategy",
+  "permalink": "/InstaForce/docs/tokenization-strategy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/InstaForce/tree/main/docs/tokenization-strategy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "InstaForce Technologies | Investor Pitch Deck",
+    "permalink": "/InstaForce/docs/pitch-deck"
+  },
+  "next": {
+    "title": "Contributing Guidelines",
+    "permalink": "/InstaForce/docs/contributing"
+  }
+}
