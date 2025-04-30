@@ -1,0 +1,24 @@
+{
+  "id": "contributing",
+  "title": "Contributing to the Quantum Engine Project",
+  "description": "Thank you for your interest in contributing to the Quantum Engine Project. This revolutionary initiative requires collaboration across multiple disciplines, and your expertise is valuable to our mission of developing quantum propulsion technology.",
+  "source": "@site/docs/contributing.md",
+  "sourceDirName": ".",
+  "slug": "/contributing",
+  "permalink": "/AzureSpaceGroup/docs/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/AzureSpaceGroup/tree/main/docs/contributing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Azure Space Group Tokenization Strategy",
+    "permalink": "/AzureSpaceGroup/docs/tokenization-strategy"
+  },
+  "next": {
+    "title": "Rebranding Plan",
+    "permalink": "/AzureSpaceGroup/docs/rebranding-plan"
+  }
+}

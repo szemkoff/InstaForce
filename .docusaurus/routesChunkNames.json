@@ -1,0 +1,496 @@
+{
+  "/AzureSpaceGroup/blog-22d": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "4f3ddb7b"
+      },
+      {
+        "content": "0f85af29"
+      },
+      {
+        "content": "ae590d97"
+      },
+      {
+        "content": "d9167417"
+      },
+      {
+        "content": "be987224"
+      }
+    ],
+    "__props": "fbb18a61"
+  },
+  "/AzureSpaceGroup/blog/archive-ebd": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "fa2a6b8d"
+  },
+  "/AzureSpaceGroup/blog/authors-da9": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "734708b2"
+  },
+  "/AzureSpaceGroup/blog/prototype-designs-implementation-path-f53": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "8dbcab68"
+  },
+  "/AzureSpaceGroup/blog/quantum-propulsion-theoretical-breakthrough-771": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "2ae77fb1"
+  },
+  "/AzureSpaceGroup/blog/research-infrastructure-update-744": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "c1e09688"
+  },
+  "/AzureSpaceGroup/blog/tags-974": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "b6cf334c"
+  },
+  "/AzureSpaceGroup/blog/tags/blockchain-1a6": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ae590d97"
+      }
+    ],
+    "__props": "bdc51414"
+  },
+  "/AzureSpaceGroup/blog/tags/breakthrough-c8b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "4f3ddb7b"
+      }
+    ],
+    "__props": "ad1ca12e"
+  },
+  "/AzureSpaceGroup/blog/tags/community-c89": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ae590d97"
+      }
+    ],
+    "__props": "82710d72"
+  },
+  "/AzureSpaceGroup/blog/tags/design-7ea": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d9167417"
+      }
+    ],
+    "__props": "f08c9c1d"
+  },
+  "/AzureSpaceGroup/blog/tags/development-2ef": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "0f85af29"
+      }
+    ],
+    "__props": "654af3bd"
+  },
+  "/AzureSpaceGroup/blog/tags/diagrams-ea2": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "be987224"
+      }
+    ],
+    "__props": "e20c3d95"
+  },
+  "/AzureSpaceGroup/blog/tags/documentation-32d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d9167417"
+      },
+      {
+        "content": "be987224"
+      }
+    ],
+    "__props": "4c729c82"
+  },
+  "/AzureSpaceGroup/blog/tags/game-based-research-b07": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ae590d97"
+      }
+    ],
+    "__props": "61bfceca"
+  },
+  "/AzureSpaceGroup/blog/tags/implementation-a9d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "0f85af29"
+      }
+    ],
+    "__props": "6c1bb7bd"
+  },
+  "/AzureSpaceGroup/blog/tags/infrastructure-dd7": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "be987224"
+      }
+    ],
+    "__props": "a1f9a00b"
+  },
+  "/AzureSpaceGroup/blog/tags/propulsion-53c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "4f3ddb7b"
+      }
+    ],
+    "__props": "efd38c33"
+  },
+  "/AzureSpaceGroup/blog/tags/prototypes-792": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "0f85af29"
+      }
+    ],
+    "__props": "f3dab456"
+  },
+  "/AzureSpaceGroup/blog/tags/qpds-7fa": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "0f85af29"
+      }
+    ],
+    "__props": "4e52677b"
+  },
+  "/AzureSpaceGroup/blog/tags/quantum-aae": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "4f3ddb7b"
+      }
+    ],
+    "__props": "fa1bec8b"
+  },
+  "/AzureSpaceGroup/blog/tags/quantum-navigation-76b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "0f85af29"
+      }
+    ],
+    "__props": "e65aad8a"
+  },
+  "/AzureSpaceGroup/blog/tags/research-feb": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "4f3ddb7b"
+      },
+      {
+        "content": "be987224"
+      }
+    ],
+    "__props": "054c692e"
+  },
+  "/AzureSpaceGroup/blog/tags/tokenization-12a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ae590d97"
+      }
+    ],
+    "__props": "dd7fe479"
+  },
+  "/AzureSpaceGroup/blog/tags/updates-08f": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d9167417"
+      }
+    ],
+    "__props": "da998c2f"
+  },
+  "/AzureSpaceGroup/blog/tags/website-e55": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d9167417"
+      }
+    ],
+    "__props": "57cf2b3a"
+  },
+  "/AzureSpaceGroup/blog/tokenization-and-game-research-442": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "5187bf5a"
+  },
+  "/AzureSpaceGroup/blog/website-design-enhancement-923": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "b07c2439"
+  },
+  "/AzureSpaceGroup/project-status-e71": {
+    "__comp": "0d271eea",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/AzureSpaceGroup/docs-801": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/AzureSpaceGroup/docs-c2e": {
+    "__comp": "a7bd4aaa",
+    "__props": "8dcd7f92"
+  },
+  "/AzureSpaceGroup/docs-66c": {
+    "__comp": "a94703ab"
+  },
+  "/AzureSpaceGroup/docs/about-56c": {
+    "__comp": "17896441",
+    "content": "3d8d21df"
+  },
+  "/AzureSpaceGroup/docs/careers-4f2": {
+    "__comp": "17896441",
+    "content": "8a6a3abd"
+  },
+  "/AzureSpaceGroup/docs/contributing-b66": {
+    "__comp": "17896441",
+    "content": "4d54d076"
+  },
+  "/AzureSpaceGroup/docs/core-documentation/communication-systems-80b": {
+    "__comp": "17896441",
+    "content": "f27e2fec"
+  },
+  "/AzureSpaceGroup/docs/core-documentation/core-technology-c1e": {
+    "__comp": "17896441",
+    "content": "ffcd5b0a"
+  },
+  "/AzureSpaceGroup/docs/core-documentation/energy-systems-2e9": {
+    "__comp": "17896441",
+    "content": "f727a8e0"
+  },
+  "/AzureSpaceGroup/docs/core-documentation/propulsion-navigation-f98": {
+    "__comp": "17896441",
+    "content": "7dbddcb8"
+  },
+  "/AzureSpaceGroup/docs/core-documentation/quantum-position-determination-0a5": {
+    "__comp": "17896441",
+    "content": "8739dfe3"
+  },
+  "/AzureSpaceGroup/docs/diagrams-360": {
+    "__comp": "17896441",
+    "content": "d78ff9f4"
+  },
+  "/AzureSpaceGroup/docs/infrastructure-documentation/bio-resonance-habitat-c54": {
+    "__comp": "17896441",
+    "content": "9d1d7e14"
+  },
+  "/AzureSpaceGroup/docs/infrastructure-documentation/human-centric-design-2e0": {
+    "__comp": "17896441",
+    "content": "97a0306a"
+  },
+  "/AzureSpaceGroup/docs/infrastructure-documentation/support-systems-8c0": {
+    "__comp": "17896441",
+    "content": "6fa5d5eb"
+  },
+  "/AzureSpaceGroup/docs/intro-912": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/AzureSpaceGroup/docs/investment-869": {
+    "__comp": "17896441",
+    "content": "5f16fdb0"
+  },
+  "/AzureSpaceGroup/docs/pitch-deck-a4d": {
+    "__comp": "17896441",
+    "content": "1fabbd43"
+  },
+  "/AzureSpaceGroup/docs/rebranding-plan-ba4": {
+    "__comp": "17896441",
+    "content": "9bb012f3"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/advanced-materials-research-b3b": {
+    "__comp": "17896441",
+    "content": "f136c06d"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/game-based-research-platform-67f": {
+    "__comp": "17896441",
+    "content": "caa8d8e9"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/legal-regulatory-fa4": {
+    "__comp": "17896441",
+    "content": "06f7b6fc"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/prototype-designs-c05": {
+    "__comp": "17896441",
+    "content": "db342f0c"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/quantum-battery-prototype-670": {
+    "__comp": "17896441",
+    "content": "ee8afe25"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/quantum-communications-ef5": {
+    "__comp": "17896441",
+    "content": "94e5342c"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/quantum-propulsion-theoretical-revision-96f": {
+    "__comp": "17896441",
+    "content": "2a7f5e90"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/quantum-research-paper-b80": {
+    "__comp": "17896441",
+    "content": "6d7a076b"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/research-development-7ba": {
+    "__comp": "17896441",
+    "content": "151ba80d"
+  },
+  "/AzureSpaceGroup/docs/research-documentation/time-tacking-bd5": {
+    "__comp": "17896441",
+    "content": "9b8624ea"
+  },
+  "/AzureSpaceGroup/docs/tokenization-strategy-ccf": {
+    "__comp": "17896441",
+    "content": "fb3205f4"
+  },
+  "/AzureSpaceGroup/-1bc": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkazure_space_group_docs=self.webpackChunkazure_space_group_docs||[]).push([[1230],{6043:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/AzureSpaceGroup/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

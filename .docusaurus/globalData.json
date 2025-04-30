@@ -1,0 +1,163 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/AzureSpaceGroup/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/AzureSpaceGroup/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/AzureSpaceGroup/docs/about",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "careers",
+              "path": "/AzureSpaceGroup/docs/careers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contributing",
+              "path": "/AzureSpaceGroup/docs/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/communication-systems",
+              "path": "/AzureSpaceGroup/docs/core-documentation/communication-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/core-technology",
+              "path": "/AzureSpaceGroup/docs/core-documentation/core-technology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/energy-systems",
+              "path": "/AzureSpaceGroup/docs/core-documentation/energy-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/propulsion-navigation",
+              "path": "/AzureSpaceGroup/docs/core-documentation/propulsion-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core-documentation/quantum-position-determination",
+              "path": "/AzureSpaceGroup/docs/core-documentation/quantum-position-determination",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diagrams",
+              "path": "/AzureSpaceGroup/docs/diagrams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infrastructure-documentation/bio-resonance-habitat",
+              "path": "/AzureSpaceGroup/docs/infrastructure-documentation/bio-resonance-habitat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infrastructure-documentation/human-centric-design",
+              "path": "/AzureSpaceGroup/docs/infrastructure-documentation/human-centric-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infrastructure-documentation/support-systems",
+              "path": "/AzureSpaceGroup/docs/infrastructure-documentation/support-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/AzureSpaceGroup/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "investment",
+              "path": "/AzureSpaceGroup/docs/investment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pitch-deck",
+              "path": "/AzureSpaceGroup/docs/pitch-deck",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rebranding-plan",
+              "path": "/AzureSpaceGroup/docs/rebranding-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/advanced-materials-research",
+              "path": "/AzureSpaceGroup/docs/research-documentation/advanced-materials-research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/game-based-research-platform",
+              "path": "/AzureSpaceGroup/docs/research-documentation/game-based-research-platform",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/legal-regulatory",
+              "path": "/AzureSpaceGroup/docs/research-documentation/legal-regulatory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/prototype-designs",
+              "path": "/AzureSpaceGroup/docs/research-documentation/prototype-designs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/quantum-battery-prototype",
+              "path": "/AzureSpaceGroup/docs/research-documentation/quantum-battery-prototype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/quantum-communications",
+              "path": "/AzureSpaceGroup/docs/research-documentation/quantum-communications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/quantum-propulsion-theoretical-revision",
+              "path": "/AzureSpaceGroup/docs/research-documentation/quantum-propulsion-theoretical-revision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/quantum-research-paper",
+              "path": "/AzureSpaceGroup/docs/research-documentation/quantum-research-paper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/research-development",
+              "path": "/AzureSpaceGroup/docs/research-documentation/research-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research-documentation/time-tacking",
+              "path": "/AzureSpaceGroup/docs/research-documentation/time-tacking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokenization-strategy",
+              "path": "/AzureSpaceGroup/docs/tokenization-strategy",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/AzureSpaceGroup/docs/intro",
+                "label": "Project Overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

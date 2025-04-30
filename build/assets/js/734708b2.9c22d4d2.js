@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkazure_space_group_docs=self.webpackChunkazure_space_group_docs||[]).push([[586],{7555:e=>{e.exports=JSON.parse('{"authors":[{"name":"Stan Zemskoff","title":"Principal Quantum Engineer","url":"https://github.com/stanzem","imageURL":"https://github.com/stanzem.png","key":"stanzem","page":null,"count":0}]}')}}]);

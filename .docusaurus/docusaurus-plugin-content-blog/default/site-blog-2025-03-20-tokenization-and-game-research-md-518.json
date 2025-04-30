@@ -1,0 +1,72 @@
+{
+  "permalink": "/AzureSpaceGroup/blog/tokenization-and-game-research",
+  "editUrl": "https://github.com/szemkoff/AzureSpaceGroup/tree/main/blog/2025-03-20-tokenization-and-game-research.md",
+  "source": "@site/blog/2025-03-20-tokenization-and-game-research.md",
+  "title": "New Tokenization Strategy and Game-Based Research Platform Documentation",
+  "description": "We're excited to announce the addition of two major new documentation sections to the Azure Space Group knowledge base: our comprehensive Tokenization Strategy and innovative Game-Based Research Platform.",
+  "date": "2025-03-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "tokenization",
+      "permalink": "/AzureSpaceGroup/blog/tags/tokenization"
+    },
+    {
+      "inline": true,
+      "label": "game-based research",
+      "permalink": "/AzureSpaceGroup/blog/tags/game-based-research"
+    },
+    {
+      "inline": true,
+      "label": "blockchain",
+      "permalink": "/AzureSpaceGroup/blog/tags/blockchain"
+    },
+    {
+      "inline": true,
+      "label": "community",
+      "permalink": "/AzureSpaceGroup/blog/tags/community"
+    }
+  ],
+  "readingTime": 2.32,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Stan Zemskoff",
+      "title": "Principal Quantum Engineer",
+      "url": "https://github.com/stanzem",
+      "image_url": "https://github.com/stanzem.png",
+      "imageURL": "https://github.com/stanzem.png",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "tokenization-and-game-research",
+    "title": "New Tokenization Strategy and Game-Based Research Platform Documentation",
+    "authors": [
+      {
+        "name": "Stan Zemskoff",
+        "title": "Principal Quantum Engineer",
+        "url": "https://github.com/stanzem",
+        "image_url": "https://github.com/stanzem.png",
+        "imageURL": "https://github.com/stanzem.png"
+      }
+    ],
+    "tags": [
+      "tokenization",
+      "game-based research",
+      "blockchain",
+      "community"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introducing Prototype Designs and Practical Implementation Path for Quantum Navigation",
+    "permalink": "/AzureSpaceGroup/blog/prototype-designs-implementation-path"
+  },
+  "nextItem": {
+    "title": "Website Design Enhancement and Documentation Updates",
+    "permalink": "/AzureSpaceGroup/blog/website-design-enhancement"
+  }
+}

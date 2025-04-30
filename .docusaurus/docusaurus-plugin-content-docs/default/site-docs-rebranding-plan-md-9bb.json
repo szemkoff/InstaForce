@@ -1,0 +1,29 @@
+{
+  "id": "rebranding-plan",
+  "title": "Rebranding from Azure Space Group to Azure Space Group",
+  "description": "Comprehensive plan for transitioning from Azure Space Group to Azure Space Group brand",
+  "source": "@site/docs/rebranding-plan.md",
+  "sourceDirName": ".",
+  "slug": "/rebranding-plan",
+  "permalink": "/AzureSpaceGroup/docs/rebranding-plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/AzureSpaceGroup/tree/main/docs/rebranding-plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "rebranding-plan",
+    "title": "Rebranding from Azure Space Group to Azure Space Group",
+    "sidebar_label": "Rebranding Plan",
+    "description": "Comprehensive plan for transitioning from Azure Space Group to Azure Space Group brand"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing Guidelines",
+    "permalink": "/AzureSpaceGroup/docs/contributing"
+  },
+  "next": {
+    "title": "Careers",
+    "permalink": "/AzureSpaceGroup/docs/careers"
+  }
+}

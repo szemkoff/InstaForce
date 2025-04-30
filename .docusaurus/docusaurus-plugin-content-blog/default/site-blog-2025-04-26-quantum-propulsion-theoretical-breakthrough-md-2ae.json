@@ -1,0 +1,67 @@
+{
+  "permalink": "/AzureSpaceGroup/blog/quantum-propulsion-theoretical-breakthrough",
+  "editUrl": "https://github.com/szemkoff/AzureSpaceGroup/tree/main/blog/2025-04-26-quantum-propulsion-theoretical-breakthrough.md",
+  "source": "@site/blog/2025-04-26-quantum-propulsion-theoretical-breakthrough.md",
+  "title": "Theoretical Breakthrough in Quantum Propulsion Models",
+  "description": "We are pleased to announce a significant theoretical advancement in our understanding of quantum propulsion systems. After extensive review of the original Time Tacking propulsion framework developed by the Quantum Propulsion Research Institute, our research team has developed critical theoretical revisions that address several fundamental physics challenges while preserving the innovative core of the original theory.",
+  "date": "2025-04-26T10:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "research",
+      "permalink": "/AzureSpaceGroup/blog/tags/research"
+    },
+    {
+      "inline": true,
+      "label": "quantum",
+      "permalink": "/AzureSpaceGroup/blog/tags/quantum"
+    },
+    {
+      "inline": true,
+      "label": "propulsion",
+      "permalink": "/AzureSpaceGroup/blog/tags/propulsion"
+    },
+    {
+      "inline": true,
+      "label": "breakthrough",
+      "permalink": "/AzureSpaceGroup/blog/tags/breakthrough"
+    }
+  ],
+  "readingTime": 1.68,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Stanley Zemskoff",
+      "title": "Azure Space Group Lead Researcher",
+      "url": "https://www.linkedin.com/in/stan-zemskoff-55a55221/",
+      "image_url": "https://github.com/szemkoff.png",
+      "imageURL": "https://github.com/szemkoff.png",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "quantum-propulsion-theoretical-breakthrough",
+    "title": "Theoretical Breakthrough in Quantum Propulsion Models",
+    "authors": {
+      "name": "Stanley Zemskoff",
+      "title": "Azure Space Group Lead Researcher",
+      "url": "https://www.linkedin.com/in/stan-zemskoff-55a55221/",
+      "image_url": "https://github.com/szemkoff.png",
+      "imageURL": "https://github.com/szemkoff.png"
+    },
+    "tags": [
+      "research",
+      "quantum",
+      "propulsion",
+      "breakthrough"
+    ],
+    "date": "2025-04-26T10:00"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Introducing Prototype Designs and Practical Implementation Path for Quantum Navigation",
+    "permalink": "/AzureSpaceGroup/blog/prototype-designs-implementation-path"
+  }
+}

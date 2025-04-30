@@ -1,0 +1,24 @@
+{
+  "id": "research-documentation/advanced-materials-research",
+  "title": "Advanced Materials Research",
+  "description": "Development of quantum-responsive materials for spacecraft construction",
+  "source": "@site/docs/research-documentation/advanced-materials-research.md",
+  "sourceDirName": "research-documentation",
+  "slug": "/research-documentation/advanced-materials-research",
+  "permalink": "/AzureSpaceGroup/docs/research-documentation/advanced-materials-research",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/AzureSpaceGroup/tree/main/docs/research-documentation/advanced-materials-research.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Theoretical Revisions to Quantum Propulsion Models",
+    "permalink": "/AzureSpaceGroup/docs/research-documentation/quantum-propulsion-theoretical-revision"
+  },
+  "next": {
+    "title": "Quantum Communications",
+    "permalink": "/AzureSpaceGroup/docs/research-documentation/quantum-communications"
+  }
+}
